@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="api_error_message">There was an error in loading items:\n  %1$s</string>
+</resources>
